@@ -1,0 +1,7 @@
+C:\Users\Mi PC\source\repos\UD5_04_Actividades_de _clase\UD5_04_Actividades_de _clase\bin\Debug\UD5_04_Actividades_de _clase.exe.config
+C:\Users\Mi PC\source\repos\UD5_04_Actividades_de _clase\UD5_04_Actividades_de _clase\bin\Debug\UD5_04_Actividades_de _clase.exe
+C:\Users\Mi PC\source\repos\UD5_04_Actividades_de _clase\UD5_04_Actividades_de _clase\bin\Debug\UD5_04_Actividades_de _clase.pdb
+C:\Users\Mi PC\source\repos\UD5_04_Actividades_de _clase\UD5_04_Actividades_de _clase\obj\Debug\UD5_04_Actividades_de _clase.csproj.AssemblyReference.cache
+C:\Users\Mi PC\source\repos\UD5_04_Actividades_de _clase\UD5_04_Actividades_de _clase\obj\Debug\UD5_04_Actividades_de _clase.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\source\repos\UD5_04_Actividades_de _clase\UD5_04_Actividades_de _clase\obj\Debug\UD5_04_Actividades_de _clase.exe
+C:\Users\Mi PC\source\repos\UD5_04_Actividades_de _clase\UD5_04_Actividades_de _clase\obj\Debug\UD5_04_Actividades_de _clase.pdb
